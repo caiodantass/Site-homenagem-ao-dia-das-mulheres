@@ -1,4 +1,4 @@
-# 🌸 Site de Homenagem ao Dia das Mulheres
+# Site de Homenagem ao Dia das Mulheres
 
 Este projeto é um site especial desenvolvido para homenagear duas mulheres muito importantes na minha vida: minha mãe **Lucélia** e minha namorada **Samille**.
 
